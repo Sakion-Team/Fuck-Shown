@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">你管我看没看</string>
+    <string name="app_description">让ColorOS不会在锁屏页隐藏看过的通知</string>
+</resources>
